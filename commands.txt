@@ -1,0 +1,2 @@
+1. git init --> To initialoze the local reepository/folder Ex: D:/JacaScript Training/Training/Git-Basic-Master
+2. git remote add origin <repository URL> --> To connect local repository to remote reepository
